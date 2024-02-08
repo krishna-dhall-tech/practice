@@ -1,0 +1,30 @@
+/*ID selector*/
+#demo{
+    color:green;
+}
+h1{
+    color:red;
+}
+
+/*class selctor*/
+.demo{
+    color:red;
+    text-allign:center;
+}
+
+/*universal selector*/
+*{
+    color:red;
+    text-allign:center;
+}
+
+/*group selector*/
+h1,p{
+    color:red;
+    text-allign:center
+}
+
+/*element selector*/
+h2{
+    background-color:aqua; 
+}
